@@ -32,17 +32,14 @@ nav a:hover {
 .textoimg {
     background-image: url("imagem/Fundo\ Praia.jpg");
     background-size: cover;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    background-position: right center;
+    padding-top: 200px;
+    padding-left: 50px;
+    padding-bottom: 500px;
     color: white;
-    text-shadow: 5px 5px 8px;
-}
-
-main > p {
-    text-align: justify;
-    margin: 30px;
-    text-indent: 30px;
-    columns: 2;
+    font-size: 5vw;
+    text-shadow: 3px 3px 5px black;
+    margin: 0px;
 }
 
 footer {
